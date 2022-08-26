@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="5" failures="0" disabled="4" errors="0" time="0" timestamp="2022-07-18T06:09:57.207" name="AllTests">
+  <testsuite name="StarterTest" tests="5" failures="0" disabled="4" skipped="0" errors="0" time="0" timestamp="2022-07-18T06:09:57.207">
+    <testcase name="SampleTest" file="/Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/test/primer/starter_test.cpp" line="39" status="run" result="completed" time="0" timestamp="2022-07-18T06:09:57.207" classname="StarterTest" />
+    <testcase name="DISABLED_InitializationTest" file="/Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/test/primer/starter_test.cpp" line="45" status="notrun" result="suppressed" time="0" timestamp="1969-12-31T16:00:00.000" classname="StarterTest" />
+    <testcase name="DISABLED_ElementAccessTest" file="/Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/test/primer/starter_test.cpp" line="71" status="notrun" result="suppressed" time="0" timestamp="1969-12-31T16:00:00.000" classname="StarterTest" />
+    <testcase name="DISABLED_AdditionTest" file="/Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/test/primer/starter_test.cpp" line="118" status="notrun" result="suppressed" time="0" timestamp="1969-12-31T16:00:00.000" classname="StarterTest" />
+    <testcase name="DISABLED_MultiplicationTest" file="/Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/test/primer/starter_test.cpp" line="158" status="notrun" result="suppressed" time="0" timestamp="1969-12-31T16:00:00.000" classname="StarterTest" />
+  </testsuite>
+</testsuites>

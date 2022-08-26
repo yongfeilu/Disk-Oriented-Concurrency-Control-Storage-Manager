@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="2" failures="0" disabled="2" errors="0" time="0" timestamp="2022-07-18T06:09:56.777" name="AllTests">
+  <testsuite name="HashTablePageTest" tests="2" failures="0" disabled="2" skipped="0" errors="0" time="0" timestamp="1969-12-31T16:00:00.000">
+    <testcase name="DISABLED_DirectoryPageSampleTest" file="/Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/test/container/hash_table_page_test.cpp" line="26" status="notrun" result="suppressed" time="0" timestamp="1969-12-31T16:00:00.000" classname="HashTablePageTest" />
+    <testcase name="DISABLED_BucketPageSampleTest" file="/Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/test/container/hash_table_page_test.cpp" line="60" status="notrun" result="suppressed" time="0" timestamp="1969-12-31T16:00:00.000" classname="HashTablePageTest" />
+  </testsuite>
+</testsuites>

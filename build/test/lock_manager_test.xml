@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="4" failures="0" disabled="4" errors="0" time="0" timestamp="2022-07-18T06:09:56.544" name="AllTests">
+  <testsuite name="LockManagerTest" tests="4" failures="0" disabled="4" skipped="0" errors="0" time="0" timestamp="1969-12-31T16:00:00.000">
+    <testcase name="DISABLED_BasicTest" file="/Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/test/concurrency/lock_manager_test.cpp" line="80" status="notrun" result="suppressed" time="0" timestamp="1969-12-31T16:00:00.000" classname="LockManagerTest" />
+    <testcase name="DISABLED_TwoPLTest" file="/Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/test/concurrency/lock_manager_test.cpp" line="126" status="notrun" result="suppressed" time="0" timestamp="1969-12-31T16:00:00.000" classname="LockManagerTest" />
+    <testcase name="DISABLED_UpgradeLockTest" file="/Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/test/concurrency/lock_manager_test.cpp" line="153" status="notrun" result="suppressed" time="0" timestamp="1969-12-31T16:00:00.000" classname="LockManagerTest" />
+    <testcase name="DISABLED_WoundWaitBasicTest" file="/Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/test/concurrency/lock_manager_test.cpp" line="205" status="notrun" result="suppressed" time="0" timestamp="1969-12-31T16:00:00.000" classname="LockManagerTest" />
+  </testsuite>
+</testsuites>

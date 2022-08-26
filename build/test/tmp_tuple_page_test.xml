@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="1" failures="0" disabled="1" errors="0" time="0" timestamp="2022-07-18T06:09:58.032" name="AllTests">
+  <testsuite name="TmpTuplePageTest" tests="1" failures="0" disabled="1" skipped="0" errors="0" time="0" timestamp="1969-12-31T16:00:00.000">
+    <testcase name="DISABLED_BasicTest" file="/Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/test/storage/tmp_tuple_page_test.cpp" line="22" status="notrun" result="suppressed" time="0" timestamp="1969-12-31T16:00:00.000" classname="TmpTuplePageTest" />
+  </testsuite>
+</testsuites>

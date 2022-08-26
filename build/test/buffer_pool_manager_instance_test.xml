@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="2" failures="0" disabled="2" errors="0" time="0" timestamp="2022-07-18T06:09:55.843" name="AllTests">
+  <testsuite name="BufferPoolManagerInstanceTest" tests="2" failures="0" disabled="2" skipped="0" errors="0" time="0" timestamp="1969-12-31T16:00:00.000">
+    <testcase name="DISABLED_BinaryDataTest" file="/Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/test/buffer/buffer_pool_manager_instance_test.cpp" line="24" status="notrun" result="suppressed" time="0" timestamp="1969-12-31T16:00:00.000" classname="BufferPoolManagerInstanceTest" />
+    <testcase name="DISABLED_SampleTest" file="/Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/test/buffer/buffer_pool_manager_instance_test.cpp" line="89" status="notrun" result="suppressed" time="0" timestamp="1969-12-31T16:00:00.000" classname="BufferPoolManagerInstanceTest" />
+  </testsuite>
+</testsuites>

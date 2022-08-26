@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="3" failures="0" disabled="3" errors="0" time="0" timestamp="2022-07-18T06:09:57.327" name="AllTests">
+  <testsuite name="RecoveryTest" tests="3" failures="0" disabled="3" skipped="0" errors="0" time="0" timestamp="1969-12-31T16:00:00.000">
+    <testcase name="DISABLED_RedoTest" file="/Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/test/recovery/recovery_test.cpp" line="46" status="notrun" result="suppressed" time="0" timestamp="1969-12-31T16:00:00.000" classname="RecoveryTest" />
+    <testcase name="DISABLED_UndoTest" file="/Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/test/recovery/recovery_test.cpp" line="135" status="notrun" result="suppressed" time="0" timestamp="1969-12-31T16:00:00.000" classname="RecoveryTest" />
+    <testcase name="DISABLED_CheckpointTest" file="/Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/test/recovery/recovery_test.cpp" line="214" status="notrun" result="suppressed" time="0" timestamp="1969-12-31T16:00:00.000" classname="RecoveryTest" />
+  </testsuite>
+</testsuites>

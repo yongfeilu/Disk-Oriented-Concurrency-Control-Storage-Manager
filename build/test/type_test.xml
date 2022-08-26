@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="5" failures="0" disabled="0" errors="0" time="0" timestamp="2022-07-18T06:09:58.283" name="AllTests">
+  <testsuite name="TypeTests" tests="5" failures="0" disabled="0" skipped="0" errors="0" time="0" timestamp="2022-07-18T06:09:58.283">
+    <testcase name="InvalidTypeTest" file="/Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/test/type/type_test.cpp" line="40" status="run" result="completed" time="0" timestamp="2022-07-18T06:09:58.283" classname="TypeTests" />
+    <testcase name="GetInstanceTest" file="/Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/test/type/type_test.cpp" line="56" status="run" result="completed" time="0" timestamp="2022-07-18T06:09:58.283" classname="TypeTests" />
+    <testcase name="MaxValueTest" file="/Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/test/type/type_test.cpp" line="66" status="run" result="completed" time="0" timestamp="2022-07-18T06:09:58.283" classname="TypeTests" />
+    <testcase name="MinValueTest" file="/Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/test/type/type_test.cpp" line="76" status="run" result="completed" time="0" timestamp="2022-07-18T06:09:58.283" classname="TypeTests" />
+    <testcase name="TemplateTest" file="/Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/test/type/type_test.cpp" line="90" status="run" result="completed" time="0" timestamp="2022-07-18T06:09:58.283" classname="TypeTests" />
+  </testsuite>
+</testsuites>

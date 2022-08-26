@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="5" failures="0" disabled="5" errors="0" time="0" timestamp="2022-07-18T06:09:57.446" name="AllTests">
+  <testsuite name="BPlusTreeConcurrentTest" tests="5" failures="0" disabled="5" skipped="0" errors="0" time="0" timestamp="1969-12-31T16:00:00.000">
+    <testcase name="DISABLED_InsertTest1" file="/Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/test/storage/b_plus_tree_concurrent_test.cpp" line="103" status="notrun" result="suppressed" time="0" timestamp="1969-12-31T16:00:00.000" classname="BPlusTreeConcurrentTest" />
+    <testcase name="DISABLED_InsertTest2" file="/Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/test/storage/b_plus_tree_concurrent_test.cpp" line="155" status="notrun" result="suppressed" time="0" timestamp="1969-12-31T16:00:00.000" classname="BPlusTreeConcurrentTest" />
+    <testcase name="DISABLED_DeleteTest1" file="/Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/test/storage/b_plus_tree_concurrent_test.cpp" line="206" status="notrun" result="suppressed" time="0" timestamp="1969-12-31T16:00:00.000" classname="BPlusTreeConcurrentTest" />
+    <testcase name="DISABLED_DeleteTest2" file="/Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/test/storage/b_plus_tree_concurrent_test.cpp" line="248" status="notrun" result="suppressed" time="0" timestamp="1969-12-31T16:00:00.000" classname="BPlusTreeConcurrentTest" />
+    <testcase name="DISABLED_MixTest" file="/Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/test/storage/b_plus_tree_concurrent_test.cpp" line="291" status="notrun" result="suppressed" time="0" timestamp="1969-12-31T16:00:00.000" classname="BPlusTreeConcurrentTest" />
+  </testsuite>
+</testsuites>

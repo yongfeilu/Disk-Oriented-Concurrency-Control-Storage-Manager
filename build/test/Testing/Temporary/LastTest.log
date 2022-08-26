@@ -1,0 +1,531 @@
+Start testing: Jul 18 06:09 PDT
+----------------------------------------------------------
+1/21 Testing: buffer_pool_manager_instance_test
+1/21 Test: buffer_pool_manager_instance_test
+Command: "/Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/build/test/buffer_pool_manager_instance_test" "--gtest_color=yes" "--gtest_output=xml:/Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/build/test/buffer_pool_manager_instance_test.xml"
+Directory: /Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/build/test
+"buffer_pool_manager_instance_test" start time: Jul 18 06:09 PDT
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+[0;32m[==========] [mRunning 0 tests from 0 test suites.
+[0;32m[==========] [m0 tests from 0 test suites ran. (0 ms total)
+[0;32m[  PASSED  ] [m0 tests.
+
+[0;33m  YOU HAVE 2 DISABLED TESTS
+
+[m
+<end of output>
+Test time =   0.39 sec
+----------------------------------------------------------
+Test Passed.
+"buffer_pool_manager_instance_test" end time: Jul 18 06:09 PDT
+"buffer_pool_manager_instance_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/21 Testing: clock_replacer_test
+2/21 Test: clock_replacer_test
+Command: "/Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/build/test/clock_replacer_test" "--gtest_color=yes" "--gtest_output=xml:/Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/build/test/clock_replacer_test.xml"
+Directory: /Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/build/test
+"clock_replacer_test" start time: Jul 18 06:09 PDT
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+[0;32m[==========] [mRunning 0 tests from 0 test suites.
+[0;32m[==========] [m0 tests from 0 test suites ran. (0 ms total)
+[0;32m[  PASSED  ] [m0 tests.
+
+[0;33m  YOU HAVE 1 DISABLED TEST
+
+[m
+<end of output>
+Test time =   0.11 sec
+----------------------------------------------------------
+Test Passed.
+"clock_replacer_test" end time: Jul 18 06:09 PDT
+"clock_replacer_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/21 Testing: lru_replacer_test
+3/21 Test: lru_replacer_test
+Command: "/Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/build/test/lru_replacer_test" "--gtest_color=yes" "--gtest_output=xml:/Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/build/test/lru_replacer_test.xml"
+Directory: /Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/build/test
+"lru_replacer_test" start time: Jul 18 06:09 PDT
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+[0;32m[==========] [mRunning 0 tests from 0 test suites.
+[0;32m[==========] [m0 tests from 0 test suites ran. (0 ms total)
+[0;32m[  PASSED  ] [m0 tests.
+
+[0;33m  YOU HAVE 1 DISABLED TEST
+
+[m
+<end of output>
+Test time =   0.11 sec
+----------------------------------------------------------
+Test Passed.
+"lru_replacer_test" end time: Jul 18 06:09 PDT
+"lru_replacer_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/21 Testing: parallel_buffer_pool_manager_test
+4/21 Test: parallel_buffer_pool_manager_test
+Command: "/Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/build/test/parallel_buffer_pool_manager_test" "--gtest_color=yes" "--gtest_output=xml:/Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/build/test/parallel_buffer_pool_manager_test.xml"
+Directory: /Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/build/test
+"parallel_buffer_pool_manager_test" start time: Jul 18 06:09 PDT
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+[0;32m[==========] [mRunning 0 tests from 0 test suites.
+[0;32m[==========] [m0 tests from 0 test suites ran. (0 ms total)
+[0;32m[  PASSED  ] [m0 tests.
+
+[0;33m  YOU HAVE 2 DISABLED TESTS
+
+[m
+<end of output>
+Test time =   0.11 sec
+----------------------------------------------------------
+Test Passed.
+"parallel_buffer_pool_manager_test" end time: Jul 18 06:09 PDT
+"parallel_buffer_pool_manager_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/21 Testing: catalog_test
+5/21 Test: catalog_test
+Command: "/Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/build/test/catalog_test" "--gtest_color=yes" "--gtest_output=xml:/Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/build/test/catalog_test.xml"
+Directory: /Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/build/test
+"catalog_test" start time: Jul 18 06:09 PDT
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+[0;32m[==========] [mRunning 0 tests from 0 test suites.
+[0;32m[==========] [m0 tests from 0 test suites ran. (0 ms total)
+[0;32m[  PASSED  ] [m0 tests.
+
+[0;33m  YOU HAVE 18 DISABLED TESTS
+
+[m
+<end of output>
+Test time =   0.12 sec
+----------------------------------------------------------
+Test Passed.
+"catalog_test" end time: Jul 18 06:09 PDT
+"catalog_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/21 Testing: rwlatch_test
+6/21 Test: rwlatch_test
+Command: "/Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/build/test/rwlatch_test" "--gtest_color=yes" "--gtest_output=xml:/Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/build/test/rwlatch_test.xml"
+Directory: /Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/build/test
+"rwlatch_test" start time: Jul 18 06:09 PDT
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from RWLatchTest
+[0;32m[ RUN      ] [mRWLatchTest.BasicTest
+[0;32m[       OK ] [mRWLatchTest.BasicTest (2 ms)
+[0;32m[----------] [m1 test from RWLatchTest (2 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (2 ms total)
+[0;32m[  PASSED  ] [m1 test.
+<end of output>
+Test time =   0.12 sec
+----------------------------------------------------------
+Test Passed.
+"rwlatch_test" end time: Jul 18 06:09 PDT
+"rwlatch_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/21 Testing: lock_manager_test
+7/21 Test: lock_manager_test
+Command: "/Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/build/test/lock_manager_test" "--gtest_color=yes" "--gtest_output=xml:/Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/build/test/lock_manager_test.xml"
+Directory: /Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/build/test
+"lock_manager_test" start time: Jul 18 06:09 PDT
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+[0;32m[==========] [mRunning 0 tests from 0 test suites.
+[0;32m[==========] [m0 tests from 0 test suites ran. (0 ms total)
+[0;32m[  PASSED  ] [m0 tests.
+
+[0;33m  YOU HAVE 4 DISABLED TESTS
+
+[m
+<end of output>
+Test time =   0.12 sec
+----------------------------------------------------------
+Test Passed.
+"lock_manager_test" end time: Jul 18 06:09 PDT
+"lock_manager_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/21 Testing: transaction_test
+8/21 Test: transaction_test
+Command: "/Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/build/test/transaction_test" "--gtest_color=yes" "--gtest_output=xml:/Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/build/test/transaction_test.xml"
+Directory: /Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/build/test
+"transaction_test" start time: Jul 18 06:09 PDT
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+[0;32m[==========] [mRunning 0 tests from 0 test suites.
+[0;32m[==========] [m0 tests from 0 test suites ran. (0 ms total)
+[0;32m[  PASSED  ] [m0 tests.
+
+[0;33m  YOU HAVE 2 DISABLED TESTS
+
+[m
+<end of output>
+Test time =   0.12 sec
+----------------------------------------------------------
+Test Passed.
+"transaction_test" end time: Jul 18 06:09 PDT
+"transaction_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/21 Testing: hash_table_page_test
+9/21 Test: hash_table_page_test
+Command: "/Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/build/test/hash_table_page_test" "--gtest_color=yes" "--gtest_output=xml:/Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/build/test/hash_table_page_test.xml"
+Directory: /Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/build/test
+"hash_table_page_test" start time: Jul 18 06:09 PDT
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+[0;32m[==========] [mRunning 0 tests from 0 test suites.
+[0;32m[==========] [m0 tests from 0 test suites ran. (0 ms total)
+[0;32m[  PASSED  ] [m0 tests.
+
+[0;33m  YOU HAVE 2 DISABLED TESTS
+
+[m
+<end of output>
+Test time =   0.11 sec
+----------------------------------------------------------
+Test Passed.
+"hash_table_page_test" end time: Jul 18 06:09 PDT
+"hash_table_page_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/21 Testing: hash_table_test
+10/21 Test: hash_table_test
+Command: "/Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/build/test/hash_table_test" "--gtest_color=yes" "--gtest_output=xml:/Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/build/test/hash_table_test.xml"
+Directory: /Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/build/test
+"hash_table_test" start time: Jul 18 06:09 PDT
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+[0;32m[==========] [mRunning 0 tests from 0 test suites.
+[0;32m[==========] [m0 tests from 0 test suites ran. (0 ms total)
+[0;32m[  PASSED  ] [m0 tests.
+
+[0;33m  YOU HAVE 1 DISABLED TEST
+
+[m
+<end of output>
+Test time =   0.12 sec
+----------------------------------------------------------
+Test Passed.
+"hash_table_test" end time: Jul 18 06:09 PDT
+"hash_table_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/21 Testing: executor_test
+11/21 Test: executor_test
+Command: "/Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/build/test/executor_test" "--gtest_color=yes" "--gtest_output=xml:/Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/build/test/executor_test.xml"
+Directory: /Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/build/test
+"executor_test" start time: Jul 18 06:09 PDT
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+[0;32m[==========] [mRunning 0 tests from 0 test suites.
+[0;32m[==========] [m0 tests from 0 test suites ran. (0 ms total)
+[0;32m[  PASSED  ] [m0 tests.
+
+[0;33m  YOU HAVE 12 DISABLED TESTS
+
+[m
+<end of output>
+Test time =   0.12 sec
+----------------------------------------------------------
+Test Passed.
+"executor_test" end time: Jul 18 06:09 PDT
+"executor_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/21 Testing: starter_test
+12/21 Test: starter_test
+Command: "/Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/build/test/starter_test" "--gtest_color=yes" "--gtest_output=xml:/Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/build/test/starter_test.xml"
+Directory: /Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/build/test
+"starter_test" start time: Jul 18 06:09 PDT
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+[0;32m[==========] [mRunning 1 test from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m1 test from StarterTest
+[0;32m[ RUN      ] [mStarterTest.SampleTest
+[0;32m[       OK ] [mStarterTest.SampleTest (0 ms)
+[0;33m[ DISABLED ] [mStarterTest.DISABLED_InitializationTest
+[0;33m[ DISABLED ] [mStarterTest.DISABLED_ElementAccessTest
+[0;33m[ DISABLED ] [mStarterTest.DISABLED_AdditionTest
+[0;33m[ DISABLED ] [mStarterTest.DISABLED_MultiplicationTest
+[0;32m[----------] [m1 test from StarterTest (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m1 test from 1 test suite ran. (0 ms total)
+[0;32m[  PASSED  ] [m1 test.
+
+[0;33m  YOU HAVE 4 DISABLED TESTS
+
+[m
+<end of output>
+Test time =   0.19 sec
+----------------------------------------------------------
+Test Passed.
+"starter_test" end time: Jul 18 06:09 PDT
+"starter_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/21 Testing: recovery_test
+13/21 Test: recovery_test
+Command: "/Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/build/test/recovery_test" "--gtest_color=yes" "--gtest_output=xml:/Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/build/test/recovery_test.xml"
+Directory: /Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/build/test
+"recovery_test" start time: Jul 18 06:09 PDT
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+[0;32m[==========] [mRunning 0 tests from 0 test suites.
+[0;32m[==========] [m0 tests from 0 test suites ran. (0 ms total)
+[0;32m[  PASSED  ] [m0 tests.
+
+[0;33m  YOU HAVE 3 DISABLED TESTS
+
+[m
+<end of output>
+Test time =   0.12 sec
+----------------------------------------------------------
+Test Passed.
+"recovery_test" end time: Jul 18 06:09 PDT
+"recovery_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/21 Testing: b_plus_tree_concurrent_test
+14/21 Test: b_plus_tree_concurrent_test
+Command: "/Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/build/test/b_plus_tree_concurrent_test" "--gtest_color=yes" "--gtest_output=xml:/Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/build/test/b_plus_tree_concurrent_test.xml"
+Directory: /Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/build/test
+"b_plus_tree_concurrent_test" start time: Jul 18 06:09 PDT
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+[0;32m[==========] [mRunning 0 tests from 0 test suites.
+[0;32m[==========] [m0 tests from 0 test suites ran. (0 ms total)
+[0;32m[  PASSED  ] [m0 tests.
+
+[0;33m  YOU HAVE 5 DISABLED TESTS
+
+[m
+<end of output>
+Test time =   0.12 sec
+----------------------------------------------------------
+Test Passed.
+"b_plus_tree_concurrent_test" end time: Jul 18 06:09 PDT
+"b_plus_tree_concurrent_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/21 Testing: b_plus_tree_delete_test
+15/21 Test: b_plus_tree_delete_test
+Command: "/Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/build/test/b_plus_tree_delete_test" "--gtest_color=yes" "--gtest_output=xml:/Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/build/test/b_plus_tree_delete_test.xml"
+Directory: /Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/build/test
+"b_plus_tree_delete_test" start time: Jul 18 06:09 PDT
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+[0;32m[==========] [mRunning 0 tests from 0 test suites.
+[0;32m[==========] [m0 tests from 0 test suites ran. (0 ms total)
+[0;32m[  PASSED  ] [m0 tests.
+
+[0;33m  YOU HAVE 2 DISABLED TESTS
+
+[m
+<end of output>
+Test time =   0.12 sec
+----------------------------------------------------------
+Test Passed.
+"b_plus_tree_delete_test" end time: Jul 18 06:09 PDT
+"b_plus_tree_delete_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+16/21 Testing: b_plus_tree_insert_test
+16/21 Test: b_plus_tree_insert_test
+Command: "/Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/build/test/b_plus_tree_insert_test" "--gtest_color=yes" "--gtest_output=xml:/Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/build/test/b_plus_tree_insert_test.xml"
+Directory: /Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/build/test
+"b_plus_tree_insert_test" start time: Jul 18 06:09 PDT
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+[0;32m[==========] [mRunning 0 tests from 0 test suites.
+[0;32m[==========] [m0 tests from 0 test suites ran. (0 ms total)
+[0;32m[  PASSED  ] [m0 tests.
+
+[0;33m  YOU HAVE 2 DISABLED TESTS
+
+[m
+<end of output>
+Test time =   0.11 sec
+----------------------------------------------------------
+Test Passed.
+"b_plus_tree_insert_test" end time: Jul 18 06:09 PDT
+"b_plus_tree_insert_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+17/21 Testing: b_plus_tree_print_test
+17/21 Test: b_plus_tree_print_test
+Command: "/Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/build/test/b_plus_tree_print_test" "--gtest_color=yes" "--gtest_output=xml:/Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/build/test/b_plus_tree_print_test.xml"
+Directory: /Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/build/test
+"b_plus_tree_print_test" start time: Jul 18 06:09 PDT
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+[0;32m[==========] [mRunning 0 tests from 0 test suites.
+[0;32m[==========] [m0 tests from 0 test suites ran. (0 ms total)
+[0;32m[  PASSED  ] [m0 tests.
+
+[0;33m  YOU HAVE 1 DISABLED TEST
+
+[m
+<end of output>
+Test time =   0.11 sec
+----------------------------------------------------------
+Test Passed.
+"b_plus_tree_print_test" end time: Jul 18 06:09 PDT
+"b_plus_tree_print_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+18/21 Testing: disk_manager_test
+18/21 Test: disk_manager_test
+Command: "/Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/build/test/disk_manager_test" "--gtest_color=yes" "--gtest_output=xml:/Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/build/test/disk_manager_test.xml"
+Directory: /Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/build/test
+"disk_manager_test" start time: Jul 18 06:09 PDT
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+[0;32m[==========] [mRunning 3 tests from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m3 tests from DiskManagerTest
+[0;32m[ RUN      ] [mDiskManagerTest.ReadWritePageTest
+2022-07-18 06:09:57 [Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/src/storage/disk/disk_manager.cpp:124:ReadPage] DEBUG - Read less than a page
+[0;32m[       OK ] [mDiskManagerTest.ReadWritePageTest (3 ms)
+[0;32m[ RUN      ] [mDiskManagerTest.ReadWriteLogTest
+[0;32m[       OK ] [mDiskManagerTest.ReadWriteLogTest (0 ms)
+[0;32m[ RUN      ] [mDiskManagerTest.ThrowBadFileTest
+Message :: can't open dblog file
+[0;32m[       OK ] [mDiskManagerTest.ThrowBadFileTest (0 ms)
+[0;32m[----------] [m3 tests from DiskManagerTest (5 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m3 tests from 1 test suite ran. (6 ms total)
+[0;32m[  PASSED  ] [m3 tests.
+<end of output>
+Test time =   0.13 sec
+----------------------------------------------------------
+Test Passed.
+"disk_manager_test" end time: Jul 18 06:09 PDT
+"disk_manager_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+19/21 Testing: tmp_tuple_page_test
+19/21 Test: tmp_tuple_page_test
+Command: "/Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/build/test/tmp_tuple_page_test" "--gtest_color=yes" "--gtest_output=xml:/Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/build/test/tmp_tuple_page_test.xml"
+Directory: /Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/build/test
+"tmp_tuple_page_test" start time: Jul 18 06:09 PDT
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+[0;32m[==========] [mRunning 0 tests from 0 test suites.
+[0;32m[==========] [m0 tests from 0 test suites ran. (0 ms total)
+[0;32m[  PASSED  ] [m0 tests.
+
+[0;33m  YOU HAVE 1 DISABLED TEST
+
+[m
+<end of output>
+Test time =   0.12 sec
+----------------------------------------------------------
+Test Passed.
+"tmp_tuple_page_test" end time: Jul 18 06:09 PDT
+"tmp_tuple_page_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+20/21 Testing: tuple_test
+20/21 Test: tuple_test
+Command: "/Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/build/test/tuple_test" "--gtest_color=yes" "--gtest_output=xml:/Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/build/test/tuple_test.xml"
+Directory: /Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/build/test
+"tuple_test" start time: Jul 18 06:09 PDT
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+[0;32m[==========] [mRunning 0 tests from 0 test suites.
+[0;32m[==========] [m0 tests from 0 test suites ran. (0 ms total)
+[0;32m[  PASSED  ] [m0 tests.
+
+[0;33m  YOU HAVE 1 DISABLED TEST
+
+[m
+<end of output>
+Test time =   0.12 sec
+----------------------------------------------------------
+Test Passed.
+"tuple_test" end time: Jul 18 06:09 PDT
+"tuple_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+21/21 Testing: type_test
+21/21 Test: type_test
+Command: "/Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/build/test/type_test" "--gtest_color=yes" "--gtest_output=xml:/Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/build/test/type_test.xml"
+Directory: /Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/build/test
+"type_test" start time: Jul 18 06:09 PDT
+Output:
+----------------------------------------------------------
+Running main() from gmock_main.cc
+[0;32m[==========] [mRunning 5 tests from 1 test suite.
+[0;32m[----------] [mGlobal test environment set-up.
+[0;32m[----------] [m5 tests from TypeTests
+[0;32m[ RUN      ] [mTypeTests.InvalidTypeTest
+
+Exception Type :: Unknown Type
+Message :: Unknown type.
+
+Exception Type :: Mismatch Type
+Message :: Cannot get minimal value.
+
+Exception Type :: Mismatch Type
+Message :: Cannot get max value.
+[0;32m[       OK ] [mTypeTests.InvalidTypeTest (0 ms)
+[0;32m[ RUN      ] [mTypeTests.GetInstanceTest
+[0;32m[       OK ] [mTypeTests.GetInstanceTest (0 ms)
+[0;32m[ RUN      ] [mTypeTests.MaxValueTest
+[0;32m[       OK ] [mTypeTests.MaxValueTest (0 ms)
+[0;32m[ RUN      ] [mTypeTests.MinValueTest
+[0;32m[       OK ] [mTypeTests.MinValueTest (0 ms)
+[0;32m[ RUN      ] [mTypeTests.TemplateTest
+size is 48
+key info32
+[0;32m[       OK ] [mTypeTests.TemplateTest (0 ms)
+[0;32m[----------] [m5 tests from TypeTests (0 ms total)
+
+[0;32m[----------] [mGlobal test environment tear-down
+[0;32m[==========] [m5 tests from 1 test suite ran. (0 ms total)
+[0;32m[  PASSED  ] [m5 tests.
+<end of output>
+Test time =   0.13 sec
+----------------------------------------------------------
+Test Passed.
+"type_test" end time: Jul 18 06:09 PDT
+"type_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jul 18 06:09 PDT

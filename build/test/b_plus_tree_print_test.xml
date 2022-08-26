@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="1" failures="0" disabled="1" errors="0" time="0" timestamp="2022-07-18T06:09:57.788" name="AllTests">
+  <testsuite name="BptTreeTest" tests="1" failures="0" disabled="1" skipped="0" errors="0" time="0" timestamp="1969-12-31T16:00:00.000">
+    <testcase name="DISABLED_UnitTest" file="/Users/luyongfei/Desktop/Supplement Courses/CMU15445/project/test/storage/b_plus_tree_print_test.cpp" line="41" status="notrun" result="suppressed" time="0" timestamp="1969-12-31T16:00:00.000" classname="BptTreeTest" />
+  </testsuite>
+</testsuites>
